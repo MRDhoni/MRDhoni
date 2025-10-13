@@ -1,3 +1,6 @@
+Here's the updated GitHub profile README with your email added:
+
+```markdown
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub!;I'm+MRDhoni;Full-Stack+Developer+%F0%9F%A7%A0;Always+learning+new+things!;Let's+connect!+%F0%9F%93%A2" alt="Typing SVG" />
 </div>
@@ -17,7 +20,7 @@
 - 🌱 Learning [technologies you're learning]
 - 👯 Open to collaborate on [types of projects]
 - 💬 Ask me about [your expertise areas]
-- 📫 Reach me at [your email/contact]
+- 📫 Reach me at manikantanavuduri@gmail.com
 - 😄 Pronouns: [your pronouns]
 
 ## 🛠️ Tech Stack
@@ -48,10 +51,9 @@
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/manikanta0603/>
+  <a href="https://www.linkedin.com/in/manikanta0603/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="mailto:manikantanavuduri@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -74,3 +76,31 @@
 Don't forget to star this repository and follow me
 I'm always working on something exciting - stay tuned!
 -->
+```
+
+## Changes Made:
+
+✅ **Updated email in About Me section**: `manikantanavuduri@gmail.com`
+
+✅ **Updated email badge**: Now links to `mailto:manikantanavuduri@gmail.com`
+
+## Your Contact Information Now Includes:
+
+- **LinkedIn**: https://www.linkedin.com/in/manikanta0603/
+- **Email**: manikantanavuduri@gmail.com (clickable mailto link)
+
+## Next Steps for Complete Setup:
+
+1. **Create repository**: Named exactly `MRDhoni`
+2. **Add README.md**: Paste this code in the root
+3. **Customize content**:
+   - Fill in your current projects
+   - Update technologies you're learning
+   - Add your expertise areas
+   - Update tech stack badges to match your skills
+   - Add pronouns if desired
+4. **Commit and push**: Your GitHub profile will update automatically
+
+The profile is now ready with both your LinkedIn and Gmail contact information properly linked! Visitors can easily reach you through either platform.
+
+Would you like help customizing any other sections or adding specific projects/technologies from your experience?
