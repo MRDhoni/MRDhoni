@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Python+and+JS+Coder;Always+learning+new+things!&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+  <a href="https://github.com/MRDhoni/MRDhoni/raw/main/Manikanta_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/📄_Download_Resume-Click_Here-blue?style=for-the-badge" alt="Download Resume"/>
+  </a>
+</p>
+
 ---
 
 ### 🌟 About Me
