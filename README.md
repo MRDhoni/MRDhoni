@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm <a href="https://github.com/MRDhoni">Manikanta (MRDhoni)</a></h1>
+<h1 align="center">Hey there 👋, I'm <a href="https://github.com/MRDhoni">Manikanta </a></h1>
 <h3 align="center">🚀 Passionate Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
