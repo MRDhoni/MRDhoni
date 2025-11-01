@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MRDhoni/MRDhoni/blob/main/NAVUDURI-SUBRAHMANYA-MANIKANTA%20(2).pdf" download>
+  <a href="https://github.com/MRDhoni/MRDhoni/blob/main/NAVUDURI SUBRAHMANYA MANIKANTA.pdf" download>
     <img src="https://img.shields.io/badge/📄_Download_Resume-Click_Here-blue?style=for-the-badge" alt="Download Resume"/>
   </a>
 </p>
